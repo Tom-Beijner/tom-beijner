@@ -27,6 +27,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#3](https://github.com//Academy-Gaming/MordhauBanLogger/issues/3) in [Academy-Gaming/MordhauBanLogger](https://github.com//Academy-Gaming/MordhauBanLogger)
+2. 🗣 Commented on [#3](https://github.com//Academy-Gaming/MordhauBanLogger/issues/3) in [Academy-Gaming/MordhauBanLogger](https://github.com//Academy-Gaming/MordhauBanLogger)
+3. 🗣 Commented on [#4](https://github.com//Academy-Gaming/MordhauBanLogger/issues/4) in [Academy-Gaming/MordhauBanLogger](https://github.com//Academy-Gaming/MordhauBanLogger)
+4. ❗️ Opened issue [#4](https://github.com//Academy-Gaming/MordhauBanLogger/issues/4) in [Academy-Gaming/MordhauBanLogger](https://github.com//Academy-Gaming/MordhauBanLogger)
+5. ❗️ Opened issue [#3](https://github.com//Academy-Gaming/MordhauBanLogger/issues/3) in [Academy-Gaming/MordhauBanLogger](https://github.com//Academy-Gaming/MordhauBanLogger)
   <!--END_SECTION:activity-->
 
 </details>
