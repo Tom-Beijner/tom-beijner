@@ -10,7 +10,7 @@ I'm Tom Beijner 🐱‍💻
 I live in Sweden and I've been learning programming since I was about 13, but I started doing it seriously when I was 17. Most of my projects has been full-stack websites (MENN based: MongoDB, Express.js, or Next.js and Node.js). Some of the projects are closed-source but I plan on making them public and updating my personal website.
 
 ## ⚡ Technologies
-- Front-end development using **HTML, CSS, and JavaScript (React.js and mostly Typescript)**
+- Frontend development using **HTML, CSS, and JavaScript (React.js and mostly Typescript)**
 - Backend development using **MongoDB and Node.js (Express.js, Hapi or Nest.js)**
 - Game development using **C#**
 
