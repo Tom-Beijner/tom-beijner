@@ -17,7 +17,7 @@ I live in Sweden and I've been learning programming since I was about 13, but I 
 ## 📈 Github Stats
 
 <a href="https://github.com/Tom-Beijner/Tom-Beijner">
- <img alt="Tom-Beijner's Github Stats" src="https://github-readme-stats-git-master-tom-beijner.vercel.app/api/?username=tom-beijner&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+ <img alt="Tom-Beijner's Github Stats" src="https://github-readme-stats-git-master-tom-beijner.vercel.app/api/?username=tom-beijner&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 </a>
 <a href="https://github.com/Tom-Beijner/Tom-Beijner">
  <img alt="Tom-Beijner's Top Languages" src="https://github-readme-stats-git-master-tom-beijner.vercel.app/api/top-langs/?username=tom-beijner&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
