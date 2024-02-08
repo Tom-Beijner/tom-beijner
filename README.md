@@ -3,7 +3,6 @@
 [![Personal Website](https://img.shields.io/badge/MY%20WEBSITE-green?style=for-the-badge)](https://tombeijner.com)
 [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tom-beijner) 
 [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tom.beijner@gmail.com)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-yellow?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tom.beijner)
  
 I'm Tom Beijner 🐱‍💻
 
