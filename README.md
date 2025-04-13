@@ -10,7 +10,7 @@ I live in Sweden and I've been learning programming since I was about 13, but I 
 
 ## ⚡ Technologies
 - Frontend development using **HTML, CSS, and JavaScript (React.js and mostly Typescript)**
-- Backend development using **MongoDB and Node.js (Express.js, Hapi or Nest.js)**
+- Backend development using **MongoDB and Node.js (Express.js, Hapi or Nest.js), currently learning to use PostgreSQL with C# using Entity Framework**
 - Game development using **C#**
 
 ## 📈 Github Stats
